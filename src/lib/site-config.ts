@@ -27,7 +27,7 @@ export const siteConfig = {
     country: "India",
   },
   phone: "Call - +91-7541069125",
-  // altPhone: "Call - +91-7541069125",
+  altPhone: "", // set a second phone number here if the council has one, e.g. "Call - +91-XXXXXXXXXX"
   whatsappNumber: "Chat- 917541069125", // digits only, country code, no + or spaces
   email: "cmehcouncilpatna@gmail.com",
   officeHours: "OPEN- Monday – Saturday, 10:00 AM – 5:00 PM",
