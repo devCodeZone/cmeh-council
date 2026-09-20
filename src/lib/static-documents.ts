@@ -29,4 +29,15 @@ export const STATIC_DOCUMENTS: (DocumentCardData & { categorySlug?: string | nul
     fileSize: 489422,
     filePath: "/documents/admission-form.pdf",
   },
+  {
+    id: -2,
+    title: "Affiliated College List",
+    categoryName: "Directory",
+    categorySlug: null,
+    description: "List of colleges affiliated with the council, by session, with principal and contact details.",
+    publicationDate: new Date(),
+    fileType: "pdf",
+    fileSize: 421691,
+    filePath: "/documents/college-name-list.pdf",
+  },
 ];
